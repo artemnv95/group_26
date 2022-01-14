@@ -1,0 +1,16 @@
+Summary - short description of the problem
+Project - name of the project being tested
+Component - name of the part or function of the product being tested
+Severity - five-tier system: Blocker, Critical, Major, Minor, Trivial
+Priority - defect Priority: High, Medium, Low
+Status - bug workflow and life cycle
+Author - bug report creator
+Assigned To - name of the person assigned to resolve the issue
+
+Environment - information about the environment
+
+Steps to Reproduce - steps to easily reproduce the situation that led to the error
+Actual result - the result obtained after going through the steps to reproduce
+Expected Result - expected correct result
+
+Attachment - a log file, screenshot or any other document that can help clarify the cause of the error or indicate a way to solve the problem
