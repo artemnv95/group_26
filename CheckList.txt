@@ -1,0 +1,5 @@
+File operations:
+file creation
+opening a file
+saving a document
+seal
